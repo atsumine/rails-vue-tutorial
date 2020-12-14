@@ -2,7 +2,7 @@
   "name": "rails-vue-tutorial",
   "private": true,
   "dependencies": {
-    "autoprefixer": "^7.0.0",
+    "autoprefixer": "^7.2.6",
     "babel-core": "^6.24.1",
     "babel-loader": "7.x",
     "babel-preset-env": "^1.4.0",
